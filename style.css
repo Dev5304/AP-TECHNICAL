@@ -34,7 +34,7 @@ img{
         max-width: 75px;
     }
     section.banner-section {
-        background: url(images/Background%20%281%29.png) center center no-repeat;
+        background: url(images/Background.png)center center no-repeat;
         padding-top: 70px;
         padding-bottom: 70px;
         background-size: cover;
