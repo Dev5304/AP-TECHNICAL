@@ -34,7 +34,7 @@ img{
         max-width: 75px;
     }
     section.banner-section {
-        background: url(images/Background.png) center center no-repeat;
+        background: url(images/Background%20%281%29.png) center center no-repeat;
         padding-top: 70px;
         padding-bottom: 70px;
         background-size: cover;
@@ -280,7 +280,7 @@ img{
     padding-bottom:23px;
     }
     .form {
-        background: url(images/form\ bg.jpg) no-repeat;
+        background: url(images/form%20bg.jpg) no-repeat;
         background-size: cover;
         background-position: center center;
         padding-bottom: 60px;
@@ -677,7 +677,7 @@ p.feature-2 {
   }
 
   .footer-last {
-    background: url(images/be004a268dbc764592abe03a71ce7241.jpeg)center center no-repeat;
+   background: url(images/be004a268dbc764592abe03a71ce7241.jpeg) center center no-repeat;
     background-size: cover;
     background-position: center;
     padding-bottom: 65px;
